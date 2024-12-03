@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodCodingCode
-- 👀 I’m interested in Machine Learning, LLMs, and any real-life applications of ML
-- 🌱 I’m currently learning ML and trying to become an open source engineer
-- 📫 How to reach me discord via _exactly_
+- 👀 I’m interested in Computer Vision and any application of computer vision!
+- 🌱 I’m currently interning @ultralytics and want to work in computer vision x any industry.
+- 📫 How to reach me linkedin at Nathan yan, discord via _exactly_ or email :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to run!
 
